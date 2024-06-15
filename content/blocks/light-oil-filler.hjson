@@ -1,0 +1,28 @@
+{
+	"name": "Light Oil Filler",
+	"description": "Takes light oil and puts it into containers.",
+	"type": "GenericCrafter",
+	"outputItem": {"item": "light-oil-container", "amount": "1"},
+	"consumes": {
+		"power": 0.25,
+		"liquid": {"liquid": "light-oil", "amount": 0.105}
+	},
+	"requirements": [
+		{"item": "copper"   , "amount": 25},
+		{"item": "metaglass", "amount": 25},
+		{"item": "graphite" , "amount": 15},
+		{"item": "silicon"  , "amount": 15}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity": 10,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 15,
+	"updateEffect": "steam",
+	"category": "crafting",
+	"research": "petroleum-filler",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

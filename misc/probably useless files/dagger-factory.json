@@ -1,0 +1,4 @@
+"maxSpawn": 3,
+"consumes": {
+	"power": 0.75
+}

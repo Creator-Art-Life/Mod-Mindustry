@@ -1,0 +1,8 @@
+{
+	"name": "Thorium Sludge",
+	"description": "Thorium sludge is made from thorium and heavy oil. It is used to grow thorium crystals, which can then be harvested. That isn't very realistic, but it is good for gameplay.",
+	"temperature": 0.1,
+	"viscosity": 0.1,
+	"effect": "none",
+	"color": "ff96ff"
+}

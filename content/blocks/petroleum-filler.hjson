@@ -1,0 +1,28 @@
+{
+	"name": "Petroleum Filler",
+	"description": "Takes petroleum and puts it into containers.",
+	"type": "GenericCrafter",
+	"outputItem": {"item": "petroleum-container", "amount": "1"},
+	"consumes": {
+		"power": 0.25,
+		"liquid": {"liquid": "petroleum", "amount": 0.105}
+	},
+	"requirements": [
+		{"item": "copper"   , "amount": 25},
+		{"item": "metaglass", "amount": 25},
+		{"item": "graphite" , "amount": 15},
+		{"item": "silicon"  , "amount": 15}
+	],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"liquidCapacity": 10,
+	"hasItems": true,
+	"itemCapacity": 5,
+	"craftTime": 15,
+	"updateEffect": "steam",
+	"category": "crafting",
+	"research": "plastic-forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
