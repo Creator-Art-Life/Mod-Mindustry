@@ -1,5 +1,5 @@
 # Industrial Mindustry Mod 1.0
-![GitHub Logo](/sprites/gitexample_old_3.png)
+![GitHub Logo](/sprites/git/example_old_3.png)
 This mod for Mindustry adds alternative ways to obtain materials such as iron, steel, oil refining, titanium and thorium. The mod also makes the endgame a bit more challenging.
 
 To install this mod, you can use one of two methods:
@@ -11,7 +11,7 @@ You can contact me via Telegram (maxim_paradise).
 ## Known Issues:
 - Sometimes when you import this mod on android, minudstry crashes. Re-openning mindustry will fix the issue and the mod will be loaded.
 
-#Important:
+## Important:
 I took the pictures for the mod from the Internet.
 I'm glad I learned how to build mods for Mindustry
 
